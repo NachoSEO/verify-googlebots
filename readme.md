@@ -2,7 +2,7 @@
 
 A bash function to verify that a given IP address is not a fake Googlebot and filter your Access Log by those verified same IPs.
 
-The function is based on [this post from JohnMu](https://johnmu.com/fake-googlebots/)
+The function is based on [this post from JohnMu](https://johnmu.com/fake-googlebots/) & [Google's official documentation](https://developers.google.com/search/docs/advanced/crawling/verifying-googlebot).
 
 ## Installation
 ```sh
