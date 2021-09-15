@@ -10,5 +10,5 @@ verifyGooglebots() {
 
   wc -l ./info/potentiallygoogle.txt
 
-  grep -f ./info/potentiallygoogle.txt "$1" > ./output/googlebotacces.log
+  grep -f ./info/potentiallygoogle.txt "$1" > ./output/googlebotaccess.log
 }
